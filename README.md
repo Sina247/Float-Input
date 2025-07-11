@@ -10,5 +10,5 @@ A clean and responsive input field with animated floating labels. Designed to en
 - 🎨 **Pure HTML & CSS** : No frameworks, libraries, or JavaScript needed.
 - 💎 **Minimal UI Design** : Clean and elegant form styling.
 - 📱 **Responsive Layout** : Works on all screen sizes, mobile to desktop.
-- 🧱 **Reusable Field Component** : Easy to use in any form or project.
+- 🧩 **Reusable Field Component** : Easy to use in any form or project.
 - 💡 **Enhanced UX** : Improves clarity, focus feedback, and input accessibility.
